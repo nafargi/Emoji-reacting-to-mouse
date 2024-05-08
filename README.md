@@ -11,7 +11,11 @@ The emoji eyes follow the mouse cursor by updating their position based on the m
 - HTML
 - CSS
 - JavaScript
+## How to Use
 
+1. Clone this repository to your local machine.
+2. Open `index.html` in your web browser.
+3. Move your mouse cursor around the screen to see the emoji eyes follow it.
 
 
 ## Customization
